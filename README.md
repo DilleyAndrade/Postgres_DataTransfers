@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto demonstra como configurar uma conexão entre Python e Snowflake/AWS(S3) usando SQLAlchemy, e como carregar dados diretamente de um DataFrame Pandas para uma tabela no Snowflake ou bucket S3. É uma abordagem ideal para cargas pequenas ou integrações rápidas via script.
+Este projeto demonstra como configurar uma conexão entre Python e Snowflake/AWS(S3) usando SQLAlchemy, e como carregar dados diretamente de um DataFrame Pandas para uma tabela no Snowflake ou bucket S3. É uma abordagem ideal para cargas pequenas ou integrações rápidas via script. NÃO UTILIZE EM PRODUÇÃO!!
 
 ---
 
