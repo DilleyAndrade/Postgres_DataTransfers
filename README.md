@@ -14,6 +14,7 @@ Este projeto demonstra como configurar uma conexão entre Python e Snowflake/AWS
 
 - [Python 3.10+](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
+- [Boto3](https://boto3.amazonaws.com/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Snowflake SQLAlchemy Dialect](https://docs.snowflake.com/en/user-guide/sqlalchemy)
 - [Snowflake Connector for Python](https://docs.snowflake.com/en/developer-guide/python-connector)
